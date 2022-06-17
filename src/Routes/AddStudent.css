@@ -1,0 +1,36 @@
+.container{
+    background-image: url('../images/background.jpg');
+    height:83vh;
+    width:85vw;
+    padding-top:180px;
+}
+
+form{
+    text-align:center;
+    font-weight: bold;
+    color:white;
+    padding-left:160px;
+}
+
+.btn {
+    margin-top: 20px;
+    background-color: rgb(94, 89, 89);
+    width:60%;
+    border: none;
+}
+.city{
+    margin-left:60px;
+}
+
+.btn:hover{
+    background-color: gray;
+}
+
+.lnk {
+    color: #FFF;
+    padding-right:390px;
+  }
+.lnk:hover {
+    color: #FFF
+ }
+

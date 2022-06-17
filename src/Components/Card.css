@@ -1,0 +1,11 @@
+.card{
+    height:443px;
+    width:240px;
+    background-image: url('../images/shubham.jpeg');
+    background-repeat: no-repeat;
+
+}
+
+h5{
+    margin-left:30px;
+}

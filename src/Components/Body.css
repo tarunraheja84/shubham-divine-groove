@@ -1,0 +1,15 @@
+.background{
+    background-image: url('../images/background.jpeg');
+    width:100vw;
+    height: 83vh;
+    position:absolute;
+    z-index:-1;
+}
+h1{
+    color:white;
+    margin:auto;
+    text-align:center;
+}
+
+
+    
